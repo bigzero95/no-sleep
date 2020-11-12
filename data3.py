@@ -1,5 +1,5 @@
 #출처: https://sh-itstory.tistory.com/category/it/python%28%ED%8C%8C%EC%9D%B4%EC%8D%AC%29  [개발자승학 블로그]
-
+# 알람시계 알고리즘 참고
 
 # 알람음을 재생하기 위한
 

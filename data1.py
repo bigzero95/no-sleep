@@ -1,5 +1,5 @@
 #출처: https://tre2man.tistory.com/188 [발자취]
-
+#특정시간반복알고리즘
 
 import time
 import schedule
