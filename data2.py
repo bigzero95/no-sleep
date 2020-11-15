@@ -1,10 +1,10 @@
 #출처: https://datazzang.tistory.com/6  [철인90호 블로그]
-
+#타이머알고리즘 참고
 
 import time
 
 #타이머 시작점
-start = input("Enter를 누르면 타이머를 시작합니다.")
+start = input("minn")
 begin = time.time()
 
 #타이머 종료점
