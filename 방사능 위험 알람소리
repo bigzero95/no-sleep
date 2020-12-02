@@ -1,4 +1,0 @@
-import
-import playsound
-
-playsound("방사능 위험 알람소리.mp3" ) 
